@@ -51,23 +51,20 @@ norm=np.linalg.norm(a,ord=np.inf)
 print(f"{norm:.2f}")
 
 ```
-
-
-
-
-```
 ## Output:
 ### 1-Norm of a Matrix:
-![output](![Screenshot 2023-12-28 102155](https://github.com/BHARATHNATRAJAN/Norm-of-a-matrix/assets/147473529/5114cd05-f0f2-4c69-9ffc-d0bf91df6f23)
+
+![output](![Screenshot 2023-12-28 102155](https://github.com/BHARATHNATRAJAN/Norm-of-a-matrix/assets/147473529/664a3d7e-9a9d-415c-a3a7-44bd68ecf146)
 )
 
 ### 2-Norm of a Matrix:
-![output](![Screenshot 2023-12-28 102938](https://github.com/BHARATHNATRAJAN/Norm-of-a-matrix/assets/147473529/13ec3aba-2584-4065-958e-babc363261c9)
+
+![output](![Screenshot 2023-12-28 102938](https://github.com/BHARATHNATRAJAN/Norm-of-a-matrix/assets/147473529/55de33b8-9bde-45ee-b8ff-be7bfc56b3bd)
 )
 
 ### Infinity Norm of a Matrix:
-![output](![image](https://github.com/BHARATHNATRAJAN/Norm-of-a-matrix/assets/147473529/1aeb5819-f1ba-44a2-a8bf-1b4521e63ded)
-)
 
+![output](![Screenshot 2023-12-28 103102](https://github.com/BHARATHNATRAJAN/Norm-of-a-matrix/assets/147473529/13e98349-cf21-4960-9f35-3a3931d1b102)
+)
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
